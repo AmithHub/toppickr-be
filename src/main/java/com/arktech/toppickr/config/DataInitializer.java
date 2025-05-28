@@ -76,7 +76,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.9"),
                         5678,
                         "Toys & Games",
-                        "https://m.media-amazon.com/images/I/71sGZ9y6vXL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/71qr5lV8XOL._SL1500_.jpg",
                         amazonAPIService.generateAffiliateLink("B08HWJKZ9N")
                 ),
                 new Product(
