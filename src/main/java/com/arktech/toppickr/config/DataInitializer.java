@@ -36,7 +36,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.8"),
                         45234,
                         "Electronics",
-                        "https://via.placeholder.com/300x300/232F3E/FFFFFF?text=AirPods+Pro",
+                        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-pro-gen2-usb-c-hero",
                         amazonAPIService.generateAffiliateLink("B0BDHWDR12")
                 ),
                 new Product(
@@ -46,7 +46,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.6"),
                         12890,
                         "Fashion",
-                        "https://via.placeholder.com/300x300/232F3E/FFFFFF?text=Nike+Air+Max",
+                        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4b3c1a2b-1d3a-4e8e-9e3a-2d5b4f8f3e3e/air-max-270-mens-shoes-KkLcGR.png",
                         amazonAPIService.generateAffiliateLink("B07XJBQZPX")
                 ),
                 new Product(
@@ -56,7 +56,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.7"),
                         89456,
                         "Home & Kitchen",
-                        "https://via.placeholder.com/300x300/232F3E/FFFFFF?text=Instant+Pot",
+                        "https://instantpot.com/wp-content/uploads/2020/11/IP-DUO-6-1.jpg",
                         amazonAPIService.generateAffiliateLink("B00FLYWNYQ")
                 ),
                 new Product(
@@ -66,7 +66,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.5"),
                         34567,
                         "Books",
-                        "https://via.placeholder.com/300x300/232F3E/FFFFFF?text=Midnight+Library",
+                        "https://m.media-amazon.com/images/I/81eB+7+CkUL.jpg",
                         amazonAPIService.generateAffiliateLink("B08FF8Z1WD")
                 ),
                 new Product(
@@ -76,7 +76,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.9"),
                         5678,
                         "Toys & Games",
-                        "https://via.placeholder.com/300x300/232F3E/FFFFFF?text=LEGO+Set",
+                        "https://www.lego.com/cdn/cs/set/assets/blt1f3e5f05400d6a8a/31088_alt1.jpg",
                         amazonAPIService.generateAffiliateLink("B08HWJKZ9N")
                 ),
                 new Product(
@@ -86,7 +86,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.4"),
                         23456,
                         "Sports & Outdoors",
-                        "https://via.placeholder.com/300x300/232F3E/FFFFFF?text=Fitbit+Charge",
+                        "https://static.wixstatic.com/media/3c3e3e_3e3e3e3e3e3e4e3e3e3e3e3e3e3e3e~mv2.jpg",
                         amazonAPIService.generateAffiliateLink("B09932QY5D")
                 )
         };
