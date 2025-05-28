@@ -36,7 +36,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.8"),
                         45234,
                         "Electronics",
-                        "https://m.media-amazon.com/images/I/61f1YfTkTDL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/71Q9odukIZL._SL1500_.jpg",
                         amazonAPIService.generateAffiliateLink("B0BDHWDR12")
                 ),
                 new Product(
@@ -46,7 +46,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.6"),
                         12890,
                         "Fashion",
-                        "https://m.media-amazon.com/images/I/71K+0Jz7eAL._AC_UL1500_.jpg",
+                        "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/613fjQtsd2L._SY695_.jpg",
                         amazonAPIService.generateAffiliateLink("B07XJBQZPX")
                 ),
                 new Product(
@@ -56,7 +56,7 @@ public class DataInitializer implements CommandLineRunner {
                         new BigDecimal("4.7"),
                         89456,
                         "Home & Kitchen",
-                        "https://m.media-amazon.com/images/I/81iV+4N8g-L._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/710KoJMG2lL._SL1500_.jpg",
                         amazonAPIService.generateAffiliateLink("B00FLYWNYQ")
                 ),
                 new Product(
