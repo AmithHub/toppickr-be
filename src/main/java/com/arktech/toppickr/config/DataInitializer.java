@@ -32,17 +32,17 @@ public class DataInitializer implements CommandLineRunner {
                 new Product(
                         "Apple AirPods Pro (2nd Generation)",
                         "B0BDHWDR12",
-                        new BigDecimal("249.99"),
+                        new BigDecimal("24999"),
                         new BigDecimal("4.8"),
                         45234,
                         "Electronics",
-                        "https://m.media-amazon.com/images/W/MEDIAX_1215821-T2/images/I/71Q9odukIZL._SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61f1YfTkTDL._AC_SL1500_.jpg",
                         amazonAPIService.generateAffiliateLink("B0BDHWDR12")
                 ),
                 new Product(
                         "Nike Air Max 270 Running Shoes",
                         "B07XJBQZPX",
-                        new BigDecimal("89.99"),
+                        new BigDecimal("6399"),
                         new BigDecimal("4.6"),
                         12890,
                         "Fashion",
@@ -52,7 +52,7 @@ public class DataInitializer implements CommandLineRunner {
                 new Product(
                         "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
                         "B00FLYWNYQ",
-                        new BigDecimal("79.95"),
+                        new BigDecimal("2999"),
                         new BigDecimal("4.7"),
                         89456,
                         "Home & Kitchen",
@@ -62,7 +62,7 @@ public class DataInitializer implements CommandLineRunner {
                 new Product(
                         "The Midnight Library - Kindle Edition",
                         "B08FF8Z1WD",
-                        new BigDecimal("9.99"),
+                        new BigDecimal("299"),
                         new BigDecimal("4.5"),
                         34567,
                         "Books",
@@ -72,7 +72,7 @@ public class DataInitializer implements CommandLineRunner {
                 new Product(
                         "LEGO Creator 3-in-1 Deep Sea Creatures",
                         "B08HWJKZ9N",
-                        new BigDecimal("55.99"),
+                        new BigDecimal("1599"),
                         new BigDecimal("4.9"),
                         5678,
                         "Toys & Games",
@@ -82,7 +82,7 @@ public class DataInitializer implements CommandLineRunner {
                 new Product(
                         "Fitbit Charge 5 Advanced Fitness Tracker",
                         "B09932QY5D",
-                        new BigDecimal("149.95"),
+                        new BigDecimal("1999"),
                         new BigDecimal("4.4"),
                         23456,
                         "Sports & Outdoors",
